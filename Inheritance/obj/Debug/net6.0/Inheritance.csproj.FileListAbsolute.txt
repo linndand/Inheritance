@@ -1,0 +1,15 @@
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+D:\UAY\smt02\Pemrograman\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
